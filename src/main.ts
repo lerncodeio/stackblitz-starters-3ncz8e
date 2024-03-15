@@ -13,7 +13,7 @@ import 'zone.js';
   `,
 })
 export class App {
-  name = 'Angular Task 4 foooooo';
+  name = 'Angular Task 4';
 }
 
 bootstrapApplication(App);
